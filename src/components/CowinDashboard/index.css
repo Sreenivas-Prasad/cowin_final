@@ -1,0 +1,28 @@
+/* Write your CSS here */
+.cowin-con {
+  background-color: #161625;
+  min-height: 100vh;
+  padding: 27px;
+}
+.nav {
+  display: flex;
+}
+.image1 {
+  height: 60px;
+  width: 60px;
+}
+.nav-text {
+  color: #2cc6c6;
+}
+.text1 {
+  color: #ffffff;
+}
+.blog-Item {
+  background-color: #1c1c2b;
+}
+.hide {
+  display: none;
+}
+.unhide {
+  display: flex;
+}

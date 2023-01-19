@@ -1,0 +1,8 @@
+/* Write your CSS here */
+.text2 {
+  color: #cbd5e1;
+}
+.barChart {
+  display: flex;
+  flex-direction: column;
+}
